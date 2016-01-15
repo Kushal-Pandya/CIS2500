@@ -1,0 +1,6 @@
+moveCursor.h:14:  #ifndef header guard has wrong style, please use: INCLUDE_MOVECURSOR_H_  [build/header_guard] [5]
+moveCursor.h:59:  #endif line should be "#endif  // INCLUDE_MOVECURSOR_H_"  [build/header_guard] [5]
+Done processing moveCursor.h
+Category 'build/header_guard' errors found: 2
+Total errors found: 2
+LOC: 59

@@ -1,0 +1,6 @@
+Testing
+	- All testing code has been commented out in the parsing files to ensure it works (check files)
+	- I used printf statements in various places to ensure that
+		the code was working properly at all times.
+	- I ran all code to see if it would print out the desired output from the text file
+		in the terminal

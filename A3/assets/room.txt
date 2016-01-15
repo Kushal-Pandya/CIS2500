@@ -1,0 +1,6 @@
+19X20 g8,7 M3,4 h6,5 p2,2 w3,4
+22X17 dw4 dw9 ds8 g2,2 M3,4  p2,2
+21X20 ds4 dw9 ds8  M3,4  p2,2
+24X13 dn4 dw9 ds8  M3,4  p2,2
+15X19 dn4 dw9 ds8 M3,4  p2,2
+18X23 ds4 dw9 ds8 M6,7 g3,4

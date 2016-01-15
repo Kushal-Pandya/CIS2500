@@ -1,0 +1,22 @@
+1 Kushal Pandya                                   Student Number: 0888884
+2 CIS 2500                                                a4.c 
+3 Wednesday April 1
+
+LINKED LIST
+
+5 *************
+6 Compiling the program
+7 *************
+8 - this program is compiled by typing the following command on the cmd line: make diary or make test
+9 
+10 *************
+11 Running the program
+12 *************
+13 Program will run by typing ./bin/runMe assets/test.txt 
+18 *************
+19 Known Limitations
+20 *************
+	- 
+
+Important Information
+- I have used code from my previous assignment (a3) for parsing

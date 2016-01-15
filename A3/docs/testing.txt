@@ -1,0 +1,7 @@
+Testing
+	- All testing code has been commented out in the parsing files to ensure it works (check files)
+	- In inputParsing.c and fileIO.c I used printf statements in various places to ensure that
+		the code was working properly at all times.
+	- Before initialing ncurses I ran all code to see if it would print out the desired output from the text file
+		in the terminal
+	- This ensured that the rooms and items were indeed coming from the file rather than being hard coded
